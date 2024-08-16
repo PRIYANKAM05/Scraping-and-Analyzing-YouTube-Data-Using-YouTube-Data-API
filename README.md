@@ -21,3 +21,14 @@ This project aims to scrape data from selected YouTube channels using the YouTub
 - **Pandas:** For data manipulation and analysis.
 - **Matplotlib and Seaborn:** For data visualization.
 - **Jupyter Notebook:** For development and testing.
+## Data Collection
+
+The data was collected from the following YouTube channels:
+
+1. **Mr. Voiceover**
+2. **Saran Entertainment**
+3. **Tamilan Hollywood Movies**
+4. **Reelcut**
+5. **Tamil Voice Over 2**
+
+For each channel, data such as video titles, view counts, like counts, comment counts, and publishing dates were collected. The goal was to analyze the performance and trends of these specific channels.
